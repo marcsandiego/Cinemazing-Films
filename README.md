@@ -1,3 +1,3 @@
 # CINEMAZING FILMS
-To Run
+# To Run
 Import the cinemazing.sql database first.
