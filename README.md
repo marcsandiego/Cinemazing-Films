@@ -1,6 +1,6 @@
 # CINEMAZING FILMS
 # To Run
-Import the cinemazing.sql database first.
+Import the cinemazing.sql database first.\n
 Register an account.
 Login.
 Add cinema coins using paypal test account.
